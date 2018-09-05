@@ -1,2 +1,4 @@
 // add solution here
-function theBeatlesPlay(artist)
+function theBeatlesPlay(artists, instruments) {
+  
+}
